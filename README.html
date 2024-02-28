@@ -1,0 +1,39 @@
+<h1>PackedColumnGen</h1>
+
+<p>PackedColumnGen is a tool for building CAD models of absorber columns with customized structured packing designs. The tool generates these designs from a user-defined set of input parameters. This tool is designed as <a href="https://wiki.freecad.org/Workbenches">Workbench</a> for <a href="https://www.freecad.org/">FreeCAD</a>, a free and open-source CAD software with a user-friendly interface. The tool currently supports the following features:</p>
+
+<ul>
+<li>Parametric construction of three-dimensional columns with structured packing.</li>
+<li>Addition of cooling channels to create process intensified structured packing.</li>
+<li>Built-in functions that extend support for scripted packing generation.</li>
+</ul>
+
+<p>Refer to the <a href="./doc/README.md">user guide</a> to learn more and get started with example cases.</p>
+
+<h2>Installation</h2>
+
+<h3>Prerequisites</h3>
+
+<p>FreeCAD version 0.19 or newer needs to be installed before running the setup. The latest version can be downloaded <a href="https://www.freecad.org/">here</a>.</p>
+
+<h3>Installation using the Setup file</h3>
+
+<p>The tool source code is packaged into the <code>Setup.exe</code> executable file, which extracts to the default FreeCAD modules directory. On Windows, the module directory is <code>%APPDATA%\FreeCAD\Mod\</code>, which is usually <code>C:\Users\username\Appdata\Roaming\FreeCAD\Mod\</code>. Restart FreeCAD after extraction for changes to take effect and the module should be accessible as <code>Packed Columns</code> workbench in FreeCAD as shown below.</p>
+
+<p><img src="./doc/Images/Workbench.png" alt="Workbench demonstration" title="" /></p>
+
+<h3>Manual installation</h3>
+
+<ol>
+<li>Find the FreeCAD workbench directory by typing <code>App.getUserAppDataDir()</code> in FreeCAD <a href="https://wiki.freecad.org/Python_console">Python console</a>.</li>
+<li>Navigate to the workbench directory and copy or extract the contents of this repository to a new folder within this directory.</li>
+<li><strong>IMPORTANT</strong> Rename the folder to "packedColumnGen" (case sensitive).</li>
+<li>Restart FreeCAD for changes to take effect. The workbench <code>Packed Columns</code> should now in the list of workbenches in FreeCAD.</li>
+</ol>
+
+<h2>Authors</h2>
+
+<blockquote>
+  <p><a href="mailto:yashgirish.shah@netl.doe.gov">Yash Girish Shah</a> <br />
+<a href="mailto:gpanagak@andrew.cmu.edu">Grigorios Panagakos</a></p>
+</blockquote>
