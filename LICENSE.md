@@ -6,7 +6,7 @@ Copyright (c) 2012 - 2024
 Copyright Notice
 ----------------
 
-Foqus was produced under the DOE Carbon Capture Simulation Initiative (CCSI), and is copyright (c)
+PackedColumnGen was produced under the DOE Carbon Capture Simulation Initiative (CCSI), and is copyright (c)
 2012 - 2024 by the software owners: Oak Ridge Institute for Science and Education (ORISE), TRIAD
 National Security, LLC., Lawrence Livermore National Security, LLC., The Regents of the University
 of California, through Lawrence Berkeley National Laboratory, Battelle Memorial Institute, Pacific
@@ -23,7 +23,7 @@ publicly and display publicly, and to permit other to do so.
 License Agreement
 -----------------
 
-Foqus Copyright (c) 2012 - 2024, by the software owners: Oak Ridge Institute for Science and
+PackedColumnGen Copyright (c) 2012 - 2024, by the software owners: Oak Ridge Institute for Science and
 Education (ORISE), TRIAD National Security, LLC., Lawrence Livermore National Security, LLC., The
 Regents of the University of California, through Lawrence Berkeley National Laboratory, Battelle
 Memorial Institute, Pacific Northwest Division through Pacific Northwest National Laboratory,
@@ -51,7 +51,7 @@ provided that the following conditions are met:
    Inc., nor the names of its contributors may be used to endorse or promote products derived from
    this software without specific prior written permission.
 
- 
+
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR
 IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
 FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR
