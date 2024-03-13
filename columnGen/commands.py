@@ -1,3 +1,11 @@
+# ***************************************************************************
+# *                                                                         *
+# *   Copyright: See License.md file                                        *
+# *                                                                         *
+# *   Authors: Yash Girish Shah, Grigorios Panagakos                        *
+# *                                                                         *
+# ***************************************************************************
+
 from .preamble import *
 from .commonFunctions import getWorkbenchFolder as getWorkbenchFolder
 import columnGen.packing3D as packing3D
