@@ -10,7 +10,7 @@
 
 ### 2. In the menu bar, select `ColumnGenerator` &rarr; `Packed Column` to create an instance of packed column.
 
-![Packed Column Selection](./Images/Packed_column_menu.png)
+![Packed Column Selection](./Images/packed_column_menu.png)
 
 ### A `Packed_Column` object appears in the tree view.
 
